@@ -1,0 +1,50 @@
+_repo: Our-polar-flight_71497
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Amundsen, Roald
+    aliases:
+    - Amundsen, Rual
+    - Amundsen, Roald Engelbregt Gravning
+    birthdate: 1872
+    deathdate: 1928
+    gutenberg_agent_id: '1189'
+    url: http://www.gutenberg.org/2009/agents/1189
+    wikipedia: https://en.wikipedia.org/wiki/Roald_Amundsen
+  - agent_name: Ellsworth, Lincoln
+    birthdate: 1880
+    deathdate: 1951
+    gutenberg_agent_id: '55589'
+    url: http://www.gutenberg.org/2009/agents/55589
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lincoln_Ellsworth
+    - https://fr.wikipedia.org/wiki/Lincoln_Ellsworth
+description: ''
+gutenberg_issued: '2023-08-27'
+identifiers:
+  gutenberg: '71497'
+  lccn: '25025739'
+language: en
+pgterms:marc904: https://archive.org/details/ourpolarflightam00amun
+pgterms:marc905: 20220104075126amundsen
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions'
+- !lcsh 'Aeronautics -- Flights'
+- !lcsh 'North Pole'
+- !lcc 'G'
+- GITenberg
+tableOfContents: 'The expedition, by R. Amundsen -- The Amundsen-Ellsworth polar flight,
+  by L. Ellsworth -- The navigator''s task, by H. Riiser-Larsen -- Report about N
+  24 from the start until we joined N 25 and its crew on the 26th May, by L. Dietrichson
+  -- Whilst we wait: leaves from the diary of F. Ramm from May 21st to June 18th --
+  The weather, by J. Bjerkens.'
+title: Our polar flight
+url: http://www.gutenberg.org/ebooks/71497
